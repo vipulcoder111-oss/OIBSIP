@@ -1,0 +1,51 @@
+{
+  "open spotify": {
+    "response": "Opening Spotify as youre comande Sir.",
+    "url": "https://open.spotify.com"
+  },
+
+  "open amazon": {
+    "response": "Opening Amazon.",
+    "url": "https://www.amazon.in"
+  },
+
+  "open facebook": {
+    "response": "Opening Facebook.",
+    "url": "https://www.facebook.com"
+  },
+
+  "open twitter": {
+    "response": "Opening Twitter.",
+    "url": "https://twitter.com"
+  },
+
+  "open python": {
+    "response": "Opening Python website.",
+    "url": "https://www.python.org"
+  },
+
+  "open django": {
+    "response": "Opening Django website.",
+    "url": "https://www.djangoproject.com"
+  },
+
+  "open stackoverflow": {
+    "response": "Opening Stack Overflow.",
+    "url": "https://stackoverflow.com"
+  },
+
+  "open w3schools": {
+    "response": "Opening W3Schools.",
+    "url": "https://www.w3schools.com"
+  },
+
+  "open netflix": {
+    "response": "Opening Netflix.",
+    "url": "https://www.netflix.com"
+  },
+
+  "open whatsapp": {
+    "response": "Opening WhatsApp Web.",
+    "url": "https://web.whatsapp.com"
+  }
+}
